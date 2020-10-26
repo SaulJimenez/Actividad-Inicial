@@ -3,10 +3,10 @@
 #Calcular area y perimetro de un rectángulo.
 
 #funcion1  calcular área del rectángulo.
-
+def AreaRectangulo (l1, l2)
 
 #funcion2  calcular perímetro del rectángulo.
-
+def PerRectangulo (l1, l2)
 
 #instrucciones de accion.
 #pedir datos
@@ -18,5 +18,7 @@ l2 = float(input())
 
 #desplegar calculo funcion1.
 
+
 #desplegar calculo funcion 2.
+
 
