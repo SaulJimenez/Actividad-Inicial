@@ -1,14 +1,14 @@
 #A01283849 Saul Jimenez Torres
 #matricula y nombre 2
-#proposito del programa
+#Calcular area y perimetro de un rectángulo.
 
-#funcion1  calcular área del rectángulo
-
-
-#funcion2  calcular perímetro del rectángulo
+#funcion1  calcular área del rectángulo.
 
 
-#instrucciones de accion
+#funcion2  calcular perímetro del rectángulo.
+
+
+#instrucciones de accion.
 #pedir datos
 print("medida de lado 1 del rectángulo")
 l1 = float(input())
@@ -16,7 +16,7 @@ l1 = float(input())
 print("medida de lado 2 del rectángulo")
 l2 = float(input())
 
-#desplegar calculo funcion1
+#desplegar calculo funcion1.
 
-#desplegar calculo funcion 2
+#desplegar calculo funcion 2.
 
